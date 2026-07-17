@@ -193,11 +193,6 @@ uvicorn apps.api.main:app --reload
 ### Executive Summary Reports
 ![Pipeline](screenshots/orzyn-ai-reports.jpeg)
 
-### Navigation Sidebar
-![Pipeline](screenshots/orzyn-ai-sidebar.png)
-
----
-
 ## 📊 Dashboard Modules
 
 ### 🏠 Dashboard
