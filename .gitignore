@@ -1,0 +1,118 @@
+# Node
+
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+
+# Build
+
+dist/
+build/
+out/
+coverage/
+
+# Vite
+
+.vite/
+
+# Logs
+
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+
+.env
+.env.*
+!.env.example
+
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Database
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Alembic
+
+alembic/versions/*.pyc
+
+# VS Code
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary
+
+tmp/
+temp/
+*.tmp
+
+# Testing
+
+coverage/
+htmlcov/
+
+# Turborepo
+
+.turbo/
+
+# Cache
+
+.cache/
+
+# Uploads
+
+uploads/
+
+# Generated Reports
+
+reports/generated/
+
+# Archives
+
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Build Artifacts
+
+*.tsbuildinfo
+
+# Runtime
+
+*.pid
+*.seed
+
+# Misc
+
+*.swp
+*.swo
